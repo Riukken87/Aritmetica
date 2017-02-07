@@ -1,3 +1,3 @@
 #Aritmética
 
-Código base para la Práctica 0 sobre **JUnit**
+Código basemodificado para la Práctica 0 sobre **JUnit**
